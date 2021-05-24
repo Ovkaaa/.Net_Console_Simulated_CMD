@@ -12,7 +12,7 @@ namespace Exam_C_Sharp
         private static List<string> history = new List<string>();
         public static void StartCmd()  //Вывод информации первого запуска
         {
-            Title("Командная строка by Roman Maliuha:)");
+            Title("Командная строка by Ovkaaa:)");
 
             Console.WriteLine($"Microsoft Windows[Version 10.0.19042.928]\n" +
                 $"(c) Корпорация Майкрософт(Microsoft Corporation).Все права защищены.");
